@@ -1,10 +1,10 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourest)
+  <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourest)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/9ts7JnruWg4?style=social)](https://youtu.be/9ts7JnruWg4)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/9ts7JnruWg4?style=social)](https://youtu.be/9ts7JnruWg4) -->
 
   <br />
   <br />
@@ -13,7 +13,7 @@
 
   Tourest is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://shivalika.github.io/tourest/"><strong>➥ Live Demo</strong></a>
+  <!-- <a href="https://shivalika.github.io/tourest/"><strong>➥ Live Demo</strong></a> -->
 
 </div>
 
@@ -47,7 +47,7 @@ git clone https://github.com/ShivalikaThadiwal/tourest.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/in/shivalika-thadiwal-a0532a2a7).
+If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/in/shivalika-thadiwal).
 
 ### License
 
