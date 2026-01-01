@@ -1,54 +1,44 @@
-<div align="center">
-  
-  <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourest)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourest?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourest?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/9ts7JnruWg4?style=social)](https://youtu.be/9ts7JnruWg4) -->
+# Travel Website – Shivalika 🌍
 
-  <br />
-  <br />
+A fully responsive travel website developed using **HTML, CSS, and JavaScript**.
+The website is optimized for all screen sizes and devices, providing a smooth
+and modern user experience.
 
-  <h2 align="center">Tourest - Travel website</h2>
+## 🚀 Live Demo
+👉 https://shivalikathadiwal.github.io/travel-website-shivalika/
 
-  Tourest is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+## ✨ Features
+- Fully responsive design (mobile, tablet & desktop)
+- Clean and modern UI
+- Smooth scrolling and navigation
+- Travel destinations showcase
+- User-friendly layout
 
-  <a href="https://codewithsadee.github.io/tourest/"><strong>➥ Live Demo</strong></a>
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-</div>
+## 📂 Project Structure
 
-<br />
+```text
+travel-website-shivalika/
+│── assets/
+│── readme-images/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
 
-### Demo Screeshots
+## 📚 Learning Outcome
+- Improved frontend development skills
+- Hands-on experience with responsive design
+- Practical use of GitHub and GitHub Pages
 
-![Tourest Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## ✨ Credits
+Inspired by CodeWithSadee YouTube tutorial.  
+Customized and enhanced by **Shivalika Thadiwal** for learning and portfolio use.
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Tourest** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/ShivalikaThadiwal/tourest.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/ShivalikaThadiwal/tourest.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/in/shivalika-thadiwal).
-
-### License
-
-This project is **free to use** and does not contains any license.
+## 👩‍💻 Author
+**Shivalika Thadiwal**  
+GitHub: https://github.com/ShivalikaThadiwal
